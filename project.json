@@ -1,0 +1,12 @@
+{
+  "name": "leaf",
+  "short_description": "disease detection",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "leaf.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
